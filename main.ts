@@ -1,0 +1,5 @@
+basic.showIcon(IconNames.Asleep)
+basic.pause(1000)
+basic.showIcon(IconNames.Silly)
+basic.pause(1000)
+basic.showIcon(IconNames.Happy)
